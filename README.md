@@ -26,7 +26,15 @@ https://github.com/dabardonov/hse_hw1_meth/blob/main/HW1_meth.ipynb
 | ICM | ![image](https://user-images.githubusercontent.com/93095449/155023097-0662392c-023e-4ba2-a0a6-ab7e35964891.png) | ![image](https://user-images.githubusercontent.com/93095449/155023139-318480d8-d927-45fa-b0b4-38994ace0614.png) | |
 | Epiblast | ![image](https://user-images.githubusercontent.com/93095449/155023213-f36c68c2-eb3e-4acb-b58b-33862a650e54.png) | ![image](https://user-images.githubusercontent.com/93095449/155023251-9870006c-3c80-4334-a8c1-86e54628fbbc.png) | |
 
+## Распределение метилирования цитозинов
 
+| Стадия развития| Гистограмма |
+| ------------- | ------------- |
+| 8_cell | |
+| ICM | |
+| Epiblast | |
+
+Вывод: на стадии 8_cell доли неметилированных и полностью метилированных цитозинов примерно равны, на стадии ICM большинство цитозинов совсем не метилированы, на стадии Epiblast большая часть цитозинов 100% метилированы. Эти результаты сходятся с полученными из M-bias plots/
 
 
 
